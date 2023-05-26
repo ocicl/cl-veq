@@ -5,5 +5,5 @@ mostly practical and reasonably fast 2-4d vector and matrix operations with some
 |---------+------------------------------------------------|
 | source  | git:https://github.com/inconvergent/cl-veq.git |
 | commit  | 3ed1167                                        |
-| systems | cl-veq                                         |
+| systems | veq                                            |
 |---------+------------------------------------------------|
