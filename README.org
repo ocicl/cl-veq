@@ -2,8 +2,8 @@
 
 mostly practical and reasonably fast 2-4d vector and matrix operations with some broadcasting.
 
-|---------+------------------------------------------------|
-| source  | git:https://github.com/inconvergent/cl-veq.git |
-| commit  | 3ed1167                                        |
-| systems | veq                                            |
-|---------+------------------------------------------------|
+|---------+-----------------------------------------------------------------------------|
+| source  | file:https://github.com/inconvergent/cl-veq/archive/refs/tags/v4.5.3.tar.gz |
+| commit  | 4.3.5                                                                       |
+| systems | veq                                                                         |
+|---------+-----------------------------------------------------------------------------|
