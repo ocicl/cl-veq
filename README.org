@@ -1,9 +1,10 @@
 * cl-veq
 
-mostly practical and reasonably fast 2-4d vector and matrix operations with some broadcasting.
+mostly practical and reasonably fast 2-4d vector and matrix operations
+with some broadcasting.
 
-|---------+-----------------------------------------------------------------------------|
-| source  | file:https://github.com/inconvergent/cl-veq/archive/refs/tags/v4.5.3.tar.gz |
-| version | 4.3.5                                                                       |
-| systems | veq                                                                         |
-|---------+-----------------------------------------------------------------------------|
+|---------+------------------------------------------------|
+| source  | git:https://github.com/inconvergent/cl-veq.git |
+| version | 28ebbd0                                        |
+| systems | veq                                            |
+|---------+------------------------------------------------|
